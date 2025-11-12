@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>דגלים</title>
+    <link rel="stylesheet" href="f.css">
+</head>
+<body>
+<h1>ברוכים הבאים!</h1>
+<h3>לפניכם דגלים של מדינות שונות. האם תדעו לאיזו מדינה הם שייכים?
+</h3>
+<h4> לחצו על הדגל, וגלו את התשובה!</h4>
+<a href="./f1.html" target="_blank"
+   ><img src="./stock-vector-china-flag-official-colors-and-proportion-correctly-national-china-flag-vector-illustration-423147772.jpg" width="300"></a>
+
+<img src="./stock-vector-flag-of-mexico-555211588.jpg" width="300">
+<img src="./stock-vector-flag-of-united-kingdom-vector-british-flag-556620604.jpg" width="300">
+<br>
+</body>
+</html>
+
