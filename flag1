@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>flag</title>
+    <link rel="stylesheet" href="f.css">
+</head>
+<body>
+    <h1> כל הכבוד!!</h1>
+<h2>הדגל שייך לסין
+</h2>
+<img src="./stock-vector-chinese-house-architecture-design-242456779.jpg" alt="">
+
+</body>
+</html>
